@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/dskliarov/erlang_projects/soniclogacceptor'
+let g:netrw_dirhist_2='/Users/dskliarov/erlang_projects/soniclogacceptor/config'
+let g:netrw_dirhist_3='/Users/dskliarov/erlang_projects/soniclogacceptor/apps/soniclogacceptor/test'
+let g:netrw_dirhist_4='/Users/dskliarov/erlang_projects/soniclogacceptor/apps/soniclogacceptor'
+let g:netrw_dirhist_5='/Users/dskliarov/erlang_projects/soniclogacceptor/apps/soniclogacceptor/src'
+let g:netrw_dirhist_6='/Users/dskliarov/erlang_projects/soniclogacceptor/apps/soniclogacceptor/test'
+let g:netrw_dirhist_7='/Users/dskliarov/erlang_projects/soniclogacceptor/apps/soniclogacceptor'
+let g:netrw_dirhist_8='/Users/dskliarov/erlang_projects/soniclogacceptor/apps/soniclogacceptor/src'
